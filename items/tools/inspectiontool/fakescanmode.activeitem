@@ -1,0 +1,25 @@
+{
+  "itemName" : "fakescanner",
+  "shortdescription" : "fake scanner",
+  "description" : "should work like a scanner but it's not one!!",
+
+  "price" : 0,
+  "maxStack" : 1,
+
+  "rarity" : "Essential",
+  "category" : "Tool",
+  "itemTags" : ["tool"],
+  "inventoryIcon" : "inspectionmodeicon.png",
+  "animation" : "fakescanmode.animation",
+
+  "tooltipKind" : "mm",
+  "largeImage" : "scanmodelarge.png",
+
+  "twoHanded" : false,
+
+  "scripts" : ["fakescanmode.lua"],
+  "scriptDelta" : 5
+}
+
+
+
